@@ -4,13 +4,13 @@
 <br>
 
 <p align="left">
-- 🔭 I’m currently working as an IT Admin at Shajh Ltd.
+- 🔭 I’m currently working as an **IT Admin at Shajh Ltd.**
 <br>
-- 🌱 I’m strengthening my programming fundamentals by learning C & C++.
+- 🌱 I’m strengthening my programming fundamentals by learning **C & C++**.
 <br>
-- 👨‍💻 My future portfolio website will be at <a href="http://rxxeron.me">rxxeron.me</a>
+- 👨‍💻 My future portfolio website will be at **<a href="http://rxxeron.me">rxxeron.me</a>**
 <br>
-- 📫 You can reach me at rhrakibulhasan279@gmail.com
+- 📫 You can reach me at **rhrakibulhasan279@gmail.com**
 </p>
 
 <hr/>
@@ -62,9 +62,9 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[rxxeron]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Md. Rakibul Hasan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rxxeron&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Md. Rakibul Hasan's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[rxxeron]&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxxeron&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
 </p>
 
 <hr/>
