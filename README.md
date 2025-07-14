@@ -62,9 +62,9 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Md. Rakibul Hasan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[rxxeron]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Md. Rakibul Hasan's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[rxxeron]&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
 </p>
 
 <hr/>
