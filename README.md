@@ -1,24 +1,28 @@
-<h1 align="center">Hi there, I'm Md. Rakibul Hasan 👋</h1>
-<h3 align="center">A Student of Information and Communications Engineering (ICE) at East West University and IT Admin at Shajh Ltd.</h3>
+<h1 align="center">Hey, I'm Md. Rakibul Hasan 👋</h1>
 
-<br>
+<h3 align="center">
+  A Student of Information and Communications Engineering (ICE) at East West University <a href="http://www.ewubd.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/East-west-university-LogoSVG.svg/250px-East-west-university-LogoSVG.svg.png" alt="EWU Logo" width="30"/></a>
+  <br/>
+  IT Admin at Shajh Ltd. | Based in <b>Dhaka, Bangladesh</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/330px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="25"/>
+</h3>
+
 
 <p align="left">
-- 🔭 I’m currently working as an **IT Admin at Shajh Ltd.**
+- I’m currently working as an <b> IT Admin at Shajh Ltd.</b>
 <br>
-- 🌱 I’m strengthening my programming fundamentals by learning **C & C++**.
+- I’m strengthening my programming fundamentals by learning <b> C & C++ </b>.
 <br>
-- 👨‍💻 My future portfolio website will be at **<a href="http://rxxeron.me">rxxeron.me</a>**
+- My future portfolio website will be at <b> <a href="http://rxxeron.me">rxxeron.me</a></b>
 <br>
-- 📫 You can reach me at **rhrakibulhasan279@gmail.com**
+- You can reach me at <b>rhrakibulhasan279@gmail.com</b>
 </p>
 
 <hr/>
 
 <h3 align="center">🛠️ My Skills & Expertise</h3>
 
-<h4 align="left">Programming & Web Development:</h4>
-<p align="left">
+<h4 align="center">Programming & Web Development:</h4>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
   </a>
@@ -39,8 +43,8 @@
   </a>
 </p>
 
-<h4 align="left">Design & Creative Software:</h4>
-<p align="left">
+<h4 align="center">Design & Creative Software:</h4>
+<p align="center">
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/> 
   </a>
@@ -55,6 +59,28 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
+  </a>
+</p>
+
+<h4 align="center">Competitive Programming:</h4>
+<p align="center">
+  <a href="https://www.codechef.com/users/rxxeron" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/rxxeron" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/rxxeron" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+<hr/>
+
+<h3 align="center">🏆 Certifications</h3>
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/4f504a53e8b1" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python (Basic) Certificate"/>
   </a>
 </p>
 
