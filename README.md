@@ -12,7 +12,7 @@
 <br>
 - I’m strengthening my programming fundamentals by learning <b> C & C++ </b>.
 <br>
-- My future portfolio website will be at <b> <a href="http://rxxeron.me">rxxeron.me</a></b>
+- Visit my portfolio website at <b> <a href="http://rxxeron.me">rxxeron.me</a></b>
 <br>
 - You can reach me at <b>rhrakibulhasan279@gmail.com</b>
 </p>
