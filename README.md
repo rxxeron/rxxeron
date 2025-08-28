@@ -3,12 +3,11 @@
 <h3 align="center">
   A Student of Information and Communications Engineering (ICE) at East West University <a href="http://www.ewubd.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/East-west-university-LogoSVG.svg/250px-East-west-university-LogoSVG.svg.png" alt="EWU Logo" width="30"/></a>
   <br/>
-  IT Admin at Shajh Ltd. | Based in <b>Dhaka, Bangladesh</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/330px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="25"/>
+  <b>Dhaka, Bangladesh</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/330px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="25"/>
 </h3>
 
 
 <p align="left">
-- I’m currently working as an <b> IT Admin at Shajh Ltd.</b>
 <br>
 - I’m strengthening my programming fundamentals by learning <b> C & C++ </b>.
 <br>
