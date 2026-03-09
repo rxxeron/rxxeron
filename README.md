@@ -47,18 +47,7 @@
 </p>
 <h4 align="center">Design & Creative Software:</h4>
 <p align="center">
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/> 
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/> 
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/> 
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/> 
-  </a>
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
   </a>
